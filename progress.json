@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T09:37:08.033Z",
+  "generated_at": "2026-10-22T09:37:10.178Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -124,6 +124,87 @@
       "last_pushed_at": "2026-09-29T09:23:43.895Z",
       "language": "python",
       "lines": 8
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-10-19T09:09:23.474Z",
+      "last_pushed_at": "2026-10-19T09:09:23.474Z"
+    },
+    "math:9": {
+      "kind": "math",
+      "id": "9",
+      "title": "Matrix Basics",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/9",
+      "path": "math/0009-matrix-basics",
+      "first_solved_at": "2026-10-19T09:14:07.451Z",
+      "last_pushed_at": "2026-10-19T09:14:07.451Z"
+    },
+    "math:10": {
+      "kind": "math",
+      "id": "10",
+      "title": "Matrix Multiplication",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/10",
+      "path": "math/0010-matrix-multiplication",
+      "first_solved_at": "2026-10-19T09:22:26.252Z",
+      "last_pushed_at": "2026-10-19T09:22:26.252Z"
+    },
+    "math:8": {
+      "kind": "math",
+      "id": "8",
+      "title": "Vector Norms and Linear Independence",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/8",
+      "path": "math/0008-vector-norms-and-linear-independence",
+      "first_solved_at": "2026-10-19T09:23:56.351Z",
+      "last_pushed_at": "2026-10-19T09:23:56.351Z"
+    },
+    "math:19": {
+      "kind": "math",
+      "id": "19",
+      "title": "Probability Fundamentals",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/19",
+      "path": "math/0019-probability-fundamentals",
+      "first_solved_at": "2026-10-19T10:07:20.808Z",
+      "last_pushed_at": "2026-10-19T10:07:20.808Z"
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-10-19T10:09:51.512Z",
+      "last_pushed_at": "2026-10-19T10:09:51.512Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-10-19T10:10:28.843Z",
+      "last_pushed_at": "2026-10-19T10:10:28.843Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
