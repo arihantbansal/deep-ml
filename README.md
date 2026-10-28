@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**27** solved · 14 problems · 0 labs · 13 math
+**28** solved · 14 problems · 0 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -41,6 +41,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-10-28 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-10-28 | [solution](math/0020-bayes-theorem) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-10-19 | [solution](math/0010-matrix-multiplication) |
+| [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-10-28 | [solution](math/0003-neural-network-derivatives) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-09-28 | [solution](math/0032-softmax-and-cross-entropy) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-10-19 | [solution](math/0008-vector-norms-and-linear-independence) |
 | [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-10-28 | [solution](math/0025-kl-divergence) |
