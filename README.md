@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**30** solved · 14 problems · 0 labs · 16 math
+**31** solved · 14 problems · 0 labs · 17 math
 
 ![Coverage](./coverage.svg)
 
@@ -41,6 +41,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-10-28 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-10-28 | [solution](math/0020-bayes-theorem) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-10-28 | [solution](math/0011-determinants-and-trace) |
+| [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-10-28 | [solution](math/0012-inverse-and-rank) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-10-19 | [solution](math/0010-matrix-multiplication) |
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-10-28 | [solution](math/0002-multivariate-calculus) |
 | [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-10-28 | [solution](math/0003-neural-network-derivatives) |
