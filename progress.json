@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T13:12:22.600Z",
+  "generated_at": "2026-10-28T13:17:09.811Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -268,6 +268,17 @@
       "path": "math/0073-standard-error-and-the-sampling-distribution-of-an-estimator",
       "first_solved_at": "2026-10-28T13:12:21.909Z",
       "last_pushed_at": "2026-10-28T13:12:21.909Z"
+    },
+    "math:33": {
+      "kind": "math",
+      "id": "33",
+      "title": "Expectation and Variance Algebra",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/33",
+      "path": "math/0033-expectation-and-variance-algebra",
+      "first_solved_at": "2026-10-28T13:17:08.829Z",
+      "last_pushed_at": "2026-10-28T13:17:08.829Z"
     }
   }
 }
