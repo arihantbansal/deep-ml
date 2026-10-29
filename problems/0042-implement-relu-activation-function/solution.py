@@ -1,2 +1,2 @@
 def relu(z: float) -> float:
-	return max (0, z)
+	return max(0, z)
